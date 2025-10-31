@@ -999,3 +999,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.31-12.33.19:868][  0]LogNetworkingProfiler: OnSessionChanged
 [2025.10.31-12.33.19:868][  0]LogMemoryProfiler: Initialize
 [2025.10.31-12.33.19:869][  0]LogMemoryProfiler: OnSessionChanged
+[2025.10.31-12.33.20:582][  0]SourceControl: Revision control is disabled
+[2025.10.31-12.33.20:818][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Icons/doc_16x.png' error.
+[2025.10.31-12.33.20:818][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/Icons/doc_16x.png]
+[2025.10.31-12.33.20:818][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2025.10.31-12.33.20:818][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2025.10.31-12.33.20:896][  0]SourceControl: Revision control is disabled
+[2025.10.31-12.33.24:031][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.10.31-12.33.24:161][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.10.31-12.33.24:161][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
