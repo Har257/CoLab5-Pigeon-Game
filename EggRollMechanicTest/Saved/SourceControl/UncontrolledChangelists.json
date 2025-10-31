@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP_EditCam.uasset",
+				"C:/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Cams/Egg2.uasset",
+				"C:/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap",
+				"C:/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP_EditCamPlayer.uasset",
+				"C:/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/GameMode.uasset",
 				"C:/Users/22504757/Desktop/EggRollMechanicTest/EggRollMechanicTest/Content/BP_EditCamPlayer.uasset",
 				"C:/Users/22504757/Desktop/EggRollMechanicTest/EggRollMechanicTest/Content/BP_MoveableObjectBase.uasset",
 				"C:/Users/22504757/Desktop/EggRollMechanicTest/EggRollMechanicTest/Content/BlankTestSpace.umap",
