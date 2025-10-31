@@ -871,3 +871,131 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.31-12.32.52:313][  0]LogShaderCompilers: Display: Using 16 local workers for shader compilation
 [2025.10.31-12.32.52:315][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
 [2025.10.31-12.32.52:317][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.10.31-12.33.01:284][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2025.10.31-12.33.03:546][  0]LogSlate: Using FreeType 2.10.0
+[2025.10.31-12.33.03:562][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.10.31-12.33.03:699][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.10.31-12.33.03:699][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2025.10.31-12.33.03:699][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.10.31-12.33.03:699][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2025.10.31-12.33.03:949][  0]LogAssetRegistry: FAssetRegistry took 0.0050 seconds to start up
+[2025.10.31-12.33.03:952][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.10.31-12.33.04:048][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.001s loading caches ../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Intermediate/CachedAssetRegistry_*.bin.
+[2025.10.31-12.33.04:480][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2025.10.31-12.33.04:480][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2025.10.31-12.33.04:537][  0]LogDeviceProfileManager: Active device profile: [000001EBB3FA0500][000001EB6951A000 66] WindowsEditor
+[2025.10.31-12.33.04:537][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.10.31-12.33.04:542][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.31-12.33.04:552][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2025.10.31-12.33.04:552][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.10.31-12.33.04:552][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2025.10.31-12.33.04:583][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
+[2025.10.31-12.33.04:617][  0]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/EggRollMechanicTest.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Intermediate/TurnkeyReport_1.log" -log="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Intermediate/TurnkeyLog_1.log" -project="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/EggRollMechanicTest.uproject"  -Device=Win64@ASN-STU9091'
+[2025.10.31-12.33.04:618][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/EggRollMechanicTest.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Intermediate/TurnkeyReport_1.log" -log="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Intermediate/TurnkeyLog_1.log" -project="C:/Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/EggRollMechanicTest.uproject"  -Device=Win64@ASN-STU9091" -nocompile -nocompileuat ]
+[2025.10.31-12.33.04:692][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:697][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness because of a recursive sync load
+[2025.10.31-12.33.04:697][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:697][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:703][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec because of a recursive sync load
+[2025.10.31-12.33.04:703][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:703][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:725][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_M because of a recursive sync load
+[2025.10.31-12.33.04:725][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_N because of a recursive sync load
+[2025.10.31-12.33.04:727][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade because of a recursive sync load
+[2025.10.31-12.33.04:727][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:741][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:746][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:756][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDiffuse because of a recursive sync load
+[2025.10.31-12.33.04:756][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components because of a recursive sync load
+[2025.10.31-12.33.04:758][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultPostProcessMaterial because of a recursive sync load
+[2025.10.31-12.33.04:758][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:821][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultLightFunctionMaterial because of a recursive sync load
+[2025.10.31-12.33.04:821][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:858][  0]LogStreaming: Display: Package /Engine/EngineMaterials/WorldGridMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDeferredDecalMaterial because of a recursive sync load
+[2025.10.31-12.33.04:858][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.04:890][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
+[2025.10.31-12.33.04:890][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2025.10.31-12.33.05:845][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.10.31-12.33.05:845][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.10.31-12.33.05:845][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.10.31-12.33.05:845][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.10.31-12.33.05:845][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.10.31-12.33.07:847][  0]LogConfig: Applying CVar settings from Section [/Script/CQTest.CQTestSettings] File [Engine]
+[2025.10.31-12.33.07:963][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.10.31-12.33.07:963][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.10.31-12.33.07:963][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetActorFactory name: NetActorFactory id: 0
+[2025.10.31-12.33.07:963][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetSubObjectFactory name: NetSubObjectFactory id: 1
+[2025.10.31-12.33.08:018][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.10.31-12.33.08:018][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.10.31-12.33.08:020][  0]LogLiveCoding: Display: First instance in process group "UE_EggRollMechanicTest_0xe18a2263", spawning console
+[2025.10.31-12.33.08:210][  0]LogSlate: Border
+[2025.10.31-12.33.08:210][  0]LogSlate: BreadcrumbButton
+[2025.10.31-12.33.08:210][  0]LogSlate: Brushes.Title
+[2025.10.31-12.33.08:210][  0]LogSlate: ColorPicker.ColorThemes
+[2025.10.31-12.33.08:210][  0]LogSlate: Default
+[2025.10.31-12.33.08:210][  0]LogSlate: Icons.Save
+[2025.10.31-12.33.08:210][  0]LogSlate: Icons.Toolbar.Settings
+[2025.10.31-12.33.08:210][  0]LogSlate: ListView
+[2025.10.31-12.33.08:210][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.10.31-12.33.08:210][  0]LogSlate: SoftwareCursor_Grab
+[2025.10.31-12.33.08:210][  0]LogSlate: TableView.DarkRow
+[2025.10.31-12.33.08:210][  0]LogSlate: TableView.Row
+[2025.10.31-12.33.08:210][  0]LogSlate: TreeView
+[2025.10.31-12.33.08:418][  0]LogLiveCoding: Display: Waiting for server
+[2025.10.31-12.33.10:102][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2025.10.31-12.33.11:329][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.10.31-12.33.11:333][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 3.449 ms
+[2025.10.31-12.33.11:637][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.10.31-12.33.11:637][  0]LogInit: XR: MultiViewport is Disabled
+[2025.10.31-12.33.11:637][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.10.31-12.33.11:662][  0]LogTurnkeySupport: Turnkey Device: Win64@ASN-STU9091: (Name=ASN-STU9091, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.26100.0, Flags="Device_InstallSoftwareValid")
+[2025.10.31-12.33.11:751][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.10.31-12.33.11:953][  0]LogFMOD: FFMODStudioModule startup
+[2025.10.31-12.33.11:953][  0]LogFMOD: Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2025.10.31-12.33.11:953][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2025.10.31-12.33.12:009][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2025.10.31-12.33.12:062][  0]LogFMOD: Error: Failed to load bank lookup
+[2025.10.31-12.33.12:062][  0]LogFMOD: Error: Failed to load asset lookup
+[2025.10.31-12.33.12:144][  0]LogFMOD: Default sample rate = 48000
+[2025.10.31-12.33.12:144][  0]LogFMOD: System sample rate = 48000
+[2025.10.31-12.33.12:144][  0]LogFMOD: Matching system sample rate 48000
+[2025.10.31-12.33.12:144][  0]LogFMOD: CallbackHandler not set.
+[2025.10.31-12.33.12:189][  0]LogFMOD: Default sample rate = 48000
+[2025.10.31-12.33.12:189][  0]LogFMOD: System sample rate = 48000
+[2025.10.31-12.33.12:189][  0]LogFMOD: Matching system sample rate 48000
+[2025.10.31-12.33.12:189][  0]LogFMOD: CallbackHandler not set.
+[2025.10.31-12.33.12:732][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.10.31-12.33.14:803][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2025.10.31-12.33.14:803][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.10.31-12.33.14:833][  0]LogMetaSound: MetaSound Engine Initialized
+[2025.10.31-12.33.16:036][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5B461609CC2A4827800000000000D800 | Instance: C929E01C4E539DDBD68366BFBA5BF701 (ASN-STU9091-26708).
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT: Selecting NPU adapter: NVIDIA GeForce RTX 4070 SUPER
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT:   DirectML:  yes
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT:   RHI D3D12: yes
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT:   D3D12:     yes
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT:   NPU:       yes
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT: Interface availability:
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT:   GPU: yes
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT:   RDG: yes
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT:   NPU: yes
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.10.31-12.33.17:605][  0]LogNNERuntimeORT: Selecting NPU adapter: NVIDIA GeForce RTX 4070 SUPER
+[2025.10.31-12.33.18:955][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.10.31-12.33.19:005][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2025.10.31-12.33.19:005][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.10.31-12.33.19:006][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61148'.
+[2025.10.31-12.33.19:011][  0]LogUdpMessaging: Display: Added local interface '149.170.79.132' to multicast group '230.0.0.1:6666'
+[2025.10.31-12.33.19:011][  0]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
+[2025.10.31-12.33.19:016][  0]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.10.31-12.33.19:768][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.31-12.33.19:768][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.31-12.33.19:868][  0]LogTimingProfiler: Initialize
+[2025.10.31-12.33.19:868][  0]LogTimingProfiler: OnSessionChanged
+[2025.10.31-12.33.19:868][  0]LoadingProfiler: Initialize
+[2025.10.31-12.33.19:868][  0]LoadingProfiler: OnSessionChanged
+[2025.10.31-12.33.19:868][  0]LogNetworkingProfiler: Initialize
+[2025.10.31-12.33.19:868][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.10.31-12.33.19:868][  0]LogMemoryProfiler: Initialize
+[2025.10.31-12.33.19:869][  0]LogMemoryProfiler: OnSessionChanged
