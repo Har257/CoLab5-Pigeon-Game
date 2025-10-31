@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/22504757/Desktop/EggRollMechanicTest/EggRollMechanicTest/Content/BP_EditCamPlayer.uasset",
+				"C:/Users/22504757/Desktop/EggRollMechanicTest/EggRollMechanicTest/Content/BP_MoveableObjectBase.uasset",
+				"C:/Users/22504757/Desktop/EggRollMechanicTest/EggRollMechanicTest/Content/BlankTestSpace.umap",
+				"D:/Usefull Stuff I Use/Uni stuff/Third Year/CoLab5/TestProject1/EggRollMechanicTest/Content/BlankTestSpace.umap",
+				"D:/Usefull Stuff I Use/Uni stuff/Third Year/CoLab5/TestProject1/EggRollMechanicTest/Content/BP_EditCam.uasset",
+				"D:/Usefull Stuff I Use/Uni stuff/Third Year/CoLab5/TestProject1/EggRollMechanicTest/Content/GameMode.uasset",
+				"D:/Usefull Stuff I Use/Uni stuff/Third Year/CoLab5/TestProject1/EggRollMechanicTest/Content/BP_MoveableObjectBase.uasset",
+				"D:/Usefull Stuff I Use/Uni stuff/Third Year/CoLab5/TestProject1/EggRollMechanicTest/Content/BP_EditCamPlayer.uasset"
+			]
+		}
+	]
+}
