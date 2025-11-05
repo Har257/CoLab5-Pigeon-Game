@@ -5995,3 +5995,987 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.05-17.10.19:420][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.05-17.10.19:420][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.05-17.10.19:420][690]AssetCheck: /Game/Cams/Egg2 Validating asset
+[2025.11.05-17.10.39:360][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 323.258362
+[2025.11.05-17.10.40:361][934]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.10.40:361][934]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 323.924774, Update Interval: 338.493591
+[2025.11.05-17.11.25:831][347]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-17.11.26:452][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-17.11.26:454][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode] ([2] browsable assets)...
+[2025.11.05-17.11.26:454][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode]
+[2025.11.05-17.11.26:454][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/GameMode.uasset" SILENT=true
+[2025.11.05-17.11.26:463][347]LogSavePackage: Moving output files for package: /Game/GameMode
+[2025.11.05-17.11.26:464][347]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/GameMode9087CF134D9B83A8DDE037955F01235F.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/GameMode.uasset'
+[2025.11.05-17.11.26:466][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Egg/Egg2] ([2] browsable assets)...
+[2025.11.05-17.11.26:466][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Egg2]
+[2025.11.05-17.11.26:466][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Egg2" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset" SILENT=true
+[2025.11.05-17.11.26:491][347]LogSavePackage: Moving output files for package: /Game/Egg/Egg2
+[2025.11.05-17.11.26:491][347]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Egg2D57C5DCF4E6A8307A9A9E3944F9A9742.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset'
+[2025.11.05-17.11.26:495][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Egg/Hazard] ([2] browsable assets)...
+[2025.11.05-17.11.26:495][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Hazard]
+[2025.11.05-17.11.26:495][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Hazard" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Hazard.uasset" SILENT=true
+[2025.11.05-17.11.26:512][347]LogSavePackage: Moving output files for package: /Game/Egg/Hazard
+[2025.11.05-17.11.26:512][347]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/HazardF1D52E014A60C79C7E942DBECB0F58A2.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Hazard.uasset'
+[2025.11.05-17.11.26:517][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Egg/EditCam] ([2] browsable assets)...
+[2025.11.05-17.11.26:517][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/EditCam]
+[2025.11.05-17.11.26:517][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/EditCam" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/EditCam.uasset" SILENT=true
+[2025.11.05-17.11.26:541][347]LogSavePackage: Moving output files for package: /Game/Egg/EditCam
+[2025.11.05-17.11.26:541][347]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/EditCam41E0A7D84E5027E1317D8287F7B99475.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/EditCam.uasset'
+[2025.11.05-17.11.26:545][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.491 ms (total: 644.023 ms)
+[2025.11.05-17.11.26:650][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.05-17.11.26:682][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.05-17.11.26:712][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.05-17.11.26:787][347]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.05-17.11.26:787][347]LogContentValidation: Enabled validators:
+[2025.11.05-17.11.26:787][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-17.11.26:787][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-17.11.26:787][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-17.11.26:787][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-17.11.26:787][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-17.11.26:787][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-17.11.26:787][347]AssetCheck: /Game/GameMode Validating asset
+[2025.11.05-17.11.26:787][347]AssetCheck: /Game/Egg/Egg2 Validating asset
+[2025.11.05-17.11.26:787][347]AssetCheck: /Game/Egg/Hazard Validating asset
+[2025.11.05-17.11.26:787][347]AssetCheck: /Game/Egg/EditCam Validating asset
+[2025.11.05-17.11.26:864][347]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.05-17.11.26:866][348]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.05-17.11.31:416][553]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.05-17.11.31:449][553]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.05-17.11.31:478][553]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.05-17.11.31:536][554]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.05-17.11.35:560][888]LogContentBrowser: Attempting asset rename: NewBlueprint -> Nest
+[2025.11.05-17.11.35:568][888]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.05-17.11.37:079][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-17.11.37:084][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-17.11.37:140][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlankTestSpace" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.05-17.11.37:195][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.05-17.11.37:210][  7]LogSavePackage: Moving output files for package: /Game/BlankTestSpace
+[2025.11.05-17.11.37:211][  7]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BlankTestSpaceB846BBBC4FD57996BCA9B2845B51BC79.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap'
+[2025.11.05-17.11.37:225][  7]LogFileHelpers: Saving map 'BlankTestSpace' took 0.087
+[2025.11.05-17.11.37:226][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Egg/Nest] ([2] browsable assets)...
+[2025.11.05-17.11.37:226][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Nest]
+[2025.11.05-17.11.37:226][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Nest" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset" SILENT=true
+[2025.11.05-17.11.37:234][  7]LogSavePackage: Moving output files for package: /Game/Egg/Nest
+[2025.11.05-17.11.37:234][  7]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Nest5A75D57340AFA35F06A814A358AB295A.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset'
+[2025.11.05-17.11.37:249][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.293 ms (total: 808.316 ms)
+[2025.11.05-17.11.37:304][  7]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.05-17.11.37:304][  7]LogContentValidation: Enabled validators:
+[2025.11.05-17.11.37:304][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-17.11.37:304][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-17.11.37:304][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-17.11.37:304][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-17.11.37:304][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-17.11.37:304][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-17.11.37:304][  7]AssetCheck: /Game/BlankTestSpace Validating asset
+[2025.11.05-17.11.37:305][  7]AssetCheck: /Game/Egg/Nest Validating asset
+[2025.11.05-17.11.37:331][  7]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.05-17.11.59:816][843]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Egg/Nest.Nest
+[2025.11.05-17.11.59:817][843]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.05-17.12.37:396][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.05-17.12.37:490][129]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.05-17.12.37:553][130]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.05-17.13.08:962][196]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.08:963][196]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.08:983][197]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.08:983][197]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.08:983][197]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:003][198]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:003][198]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:003][198]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:024][199]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:024][199]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:024][199]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:046][200]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:046][200]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:046][200]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:066][201]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:066][201]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:066][201]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:089][202]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:089][202]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:089][202]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:109][203]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:109][203]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:109][203]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:128][204]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:128][204]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:128][204]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:148][205]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:148][205]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:148][205]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:168][206]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:169][206]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:169][206]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:188][207]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:188][207]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:188][207]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:207][208]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:207][208]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:207][208]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:227][209]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:227][209]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:227][209]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:246][210]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:246][210]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:246][210]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:266][211]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:266][211]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:267][211]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:289][212]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:290][212]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:290][212]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:310][213]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:310][213]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:310][213]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:330][214]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:331][214]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:331][214]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:351][215]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:351][215]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:351][215]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:373][216]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.13.09:373][216]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.Nest_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.11.05-17.16.21:552][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 665.450989
+[2025.11.05-17.16.22:562][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.16.22:562][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 666.126953, Update Interval: 357.383331
+[2025.11.05-17.18.25:004][267]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.05-17.18.45:272][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.11.05-17.18.47:243][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.11.05-17.18.47:248][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-17.18.47:303][522]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Egg/Nest] ([2] browsable assets)...
+[2025.11.05-17.18.47:313][522]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Egg/Nest.Nest]
+[2025.11.05-17.18.47:313][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Nest]
+[2025.11.05-17.18.47:313][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Nest" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset" SILENT=true
+[2025.11.05-17.18.47:323][522]LogSavePackage: Moving output files for package: /Game/Egg/Nest
+[2025.11.05-17.18.47:324][522]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/NestD17F7D954EDFCEE656171C836C7D265D.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset'
+[2025.11.05-17.18.47:337][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.181 ms (total: 896.498 ms)
+[2025.11.05-17.18.47:402][522]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-17.18.47:402][522]LogContentValidation: Enabled validators:
+[2025.11.05-17.18.47:402][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-17.18.47:402][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-17.18.47:402][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-17.18.47:402][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-17.18.47:402][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-17.18.47:402][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-17.18.47:402][522]AssetCheck: /Game/Egg/Nest Validating asset
+[2025.11.05-17.18.51:886][838]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Egg/Nest.Nest_C
+[2025.11.05-17.18.51:886][838]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Egg/Nest.Nest_C
+[2025.11.05-17.18.51:891][838]LogActorFactory: Actor Factory spawned Blueprint /Game/Egg/Nest.Nest as actor: Nest_C /Game/BlankTestSpace.BlankTestSpace:PersistentLevel.Nest_C_0
+[2025.11.05-17.18.51:896][838]LogActorFactory: Actor Factory spawned Blueprint /Game/Egg/Nest.Nest as actor: Nest_C /Game/BlankTestSpace.BlankTestSpace:PersistentLevel.Nest_C_0
+[2025.11.05-17.18.51:905][838]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.11.05-17.18.53:144][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.05-17.18.53:160][921]LogEditorActor: Deleted 0 Actors (0.047 secs)
+[2025.11.05-17.18.53:173][921]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Egg/Nest.Nest_C
+[2025.11.05-17.18.53:173][921]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Egg/Nest.Nest_C
+[2025.11.05-17.18.53:178][921]LogActorFactory: Actor Factory spawned Blueprint /Game/Egg/Nest.Nest as actor: Nest_C /Game/BlankTestSpace.BlankTestSpace:PersistentLevel.Nest_C_1
+[2025.11.05-17.18.53:183][921]LogActorFactory: Actor Factory spawned Blueprint /Game/Egg/Nest.Nest as actor: Nest_C /Game/BlankTestSpace.BlankTestSpace:PersistentLevel.Nest_C_1
+[2025.11.05-17.18.59:709][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.18.59:764][433]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.18.59:764][433]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.18.59:768][433]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.18.59:768][433]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.18.59:768][433]LogFMOD: System sample rate = 0
+[2025.11.05-17.18.59:768][433]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.18.59:768][433]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.18.59:779][433]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.18.59:819][433]LogPlayLevel: [PlayLevel] Compiling GameMode before play...
+[2025.11.05-17.18.59:855][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-17.18.59:857][433]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2025.11.05-17.18.59:898][433]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.18.59:901][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003129s)
+[2025.11.05-17.18.59:901][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003178s)
+[2025.11.05-17.18.59:930][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.05-17.18.59:930][433]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.18.59:932][433]LogPlayLevel: PIE: World Init took: (0.001934s)
+[2025.11.05-17.18.59:933][433]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.11.05-17.18.59:933][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.18.59:933][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.18.59:933][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.18.59:933][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.18.59:933][433]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.18.59:933][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.18.59:933][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.18.59:933][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.18.59:933][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.18.59:933][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.18.59:933][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.18.59:936][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.18.59:954][433]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.18.59:954][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.18.59:954][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.18.59:954][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.18.59:955][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.11.05-17.18.59:955][433]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=11
+[2025.11.05-17.18.59:955][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.11.05-17.18.59:955][433]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=536
+[2025.11.05-17.18.59:955][433]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=11
+[2025.11.05-17.18.59:957][433]LogInit: FAudioDevice initialized with ID 11.
+[2025.11.05-17.18.59:957][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.11.05-17.18.59:958][433]LogAudio: Display: Audio Device (ID: 11) registered with world 'BlankTestSpace'.
+[2025.11.05-17.18.59:958][433]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.05-17.18.59:962][433]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.18.59:963][433]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.18.59
+[2025.11.05-17.18.59:964][433]LogWorld: Bringing up level for play took: 0.001410
+[2025.11.05-17.18.59:966][433]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.11.05-17.18.59:967][433]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.18.59:967][433]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.18.59:967][433]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.18.59:969][433]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.18.59:970][433]PIE: Server logged in
+[2025.11.05-17.18.59:972][433]PIE: Play in editor total start time 0.254 seconds.
+[2025.11.05-17.19.00:062][434]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.19.00:976][498]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.19.03:674][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.19.03:674][742]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.19.03:674][742]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.19.03:675][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.19.03:677][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.19.03:683][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.19.03:711][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.19.03:712][742]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.11.05-17.19.03:712][742]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.11.05-17.19.03:714][742]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.11.05-17.19.03:714][742]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=11
+[2025.11.05-17.19.03:718][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.05-17.19.03:776][743]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.11.05-17.19.37:008][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.05-17.19.37:779][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-17.19.37:786][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-17.19.37:837][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlankTestSpace" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.05-17.19.37:895][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.05-17.19.37:912][ 28]LogSavePackage: Moving output files for package: /Game/BlankTestSpace
+[2025.11.05-17.19.37:913][ 28]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BlankTestSpace288D10DE4948C7DF4DB3DBB64B2B16BC.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap'
+[2025.11.05-17.19.37:928][ 28]LogFileHelpers: Saving map 'BlankTestSpace' took 0.091
+[2025.11.05-17.19.37:928][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Egg/Egg2] ([2] browsable assets)...
+[2025.11.05-17.19.37:938][ 28]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Egg/Egg2.Egg2]
+[2025.11.05-17.19.37:938][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Egg2]
+[2025.11.05-17.19.37:938][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Egg2" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset" SILENT=true
+[2025.11.05-17.19.37:965][ 28]LogSavePackage: Moving output files for package: /Game/Egg/Egg2
+[2025.11.05-17.19.37:966][ 28]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Egg2B2AD324748CB76E50DE597806EAD0791.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset'
+[2025.11.05-17.19.37:980][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.914 ms (total: 1.09 sec)
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: Enabled validators:
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-17.19.38:037][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-17.19.38:037][ 28]AssetCheck: /Game/BlankTestSpace Validating asset
+[2025.11.05-17.19.38:037][ 28]AssetCheck: /Game/Egg/Egg2 Validating asset
+[2025.11.05-17.19.39:830][153]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.19.39:868][153]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.19.39:868][153]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.19.39:872][153]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.19.39:872][153]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.19.39:872][153]LogFMOD: System sample rate = 0
+[2025.11.05-17.19.39:872][153]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.19.39:872][153]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.19.39:882][153]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.19.39:923][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.19.39:923][153]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.19.39:926][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003180s)
+[2025.11.05-17.19.39:926][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003225s)
+[2025.11.05-17.19.39:957][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.05-17.19.39:958][153]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.19.39:960][153]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2025.11.05-17.19.39:961][153]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.11.05-17.19.39:961][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.19.39:961][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.19.39:961][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.19.39:961][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.19.39:961][153]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.19.39:961][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.19.39:961][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.19.39:961][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.19.39:961][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.19.39:961][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.19.39:961][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.19.39:963][153]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.19.39:981][153]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.19.39:981][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.19.39:981][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.19.39:981][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.19.39:982][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.11.05-17.19.39:982][153]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=12
+[2025.11.05-17.19.39:982][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.11.05-17.19.39:982][153]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=35448
+[2025.11.05-17.19.39:982][153]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=12
+[2025.11.05-17.19.39:984][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.11.05-17.19.39:984][153]LogInit: FAudioDevice initialized with ID 12.
+[2025.11.05-17.19.39:984][153]LogAudio: Display: Audio Device (ID: 12) registered with world 'BlankTestSpace'.
+[2025.11.05-17.19.39:984][153]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.05-17.19.39:989][153]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.19.39:990][153]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.19.39
+[2025.11.05-17.19.39:990][153]LogWorld: Bringing up level for play took: 0.001377
+[2025.11.05-17.19.39:993][153]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.11.05-17.19.39:994][153]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.19.39:994][153]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.19.39:994][153]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.19.39:996][153]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.19.39:997][153]PIE: Server logged in
+[2025.11.05-17.19.39:998][153]PIE: Play in editor total start time 0.161 seconds.
+[2025.11.05-17.19.40:091][154]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.19.41:635][289]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.19.46:896][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.19.46:896][802]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.19.46:896][802]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.19.46:896][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.19.46:899][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.19.46:905][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.19.46:934][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.19.46:934][802]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.05-17.19.46:934][802]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.11.05-17.19.46:936][802]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.11.05-17.19.46:936][802]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=12
+[2025.11.05-17.19.46:941][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.05-17.19.47:012][803]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.11.05-17.19.53:009][304]LogContentBrowser: Attempting asset rename: Egg2 -> Egg2
+[2025.11.05-17.20.19:611][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-17.20.21:098][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.05-17.20.21:104][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-17.20.21:152][939]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Egg/Egg2] ([2] browsable assets)...
+[2025.11.05-17.20.21:192][939]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Egg/Egg2.Egg2]
+[2025.11.05-17.20.21:192][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Egg2]
+[2025.11.05-17.20.21:192][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Egg2" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset" SILENT=true
+[2025.11.05-17.20.21:219][939]LogSavePackage: Moving output files for package: /Game/Egg/Egg2
+[2025.11.05-17.20.21:220][939]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Egg2F02DEEEA43B05A6954E0799305189B96.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset'
+[2025.11.05-17.20.21:233][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.365 ms (total: 1.21 sec)
+[2025.11.05-17.20.21:286][939]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-17.20.21:286][939]LogContentValidation: Enabled validators:
+[2025.11.05-17.20.21:287][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-17.20.21:287][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-17.20.21:287][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-17.20.21:287][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-17.20.21:287][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-17.20.21:287][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-17.20.21:287][939]AssetCheck: /Game/Egg/Egg2 Validating asset
+[2025.11.05-17.20.23:188][ 93]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.20.23:239][ 93]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.20.23:239][ 93]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.20.23:242][ 93]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.20.23:242][ 93]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.20.23:242][ 93]LogFMOD: System sample rate = 0
+[2025.11.05-17.20.23:242][ 93]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.20.23:242][ 93]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.20.23:253][ 93]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.20.23:294][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.20.23:332][ 93]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.20.23:335][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003076s)
+[2025.11.05-17.20.23:335][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003122s)
+[2025.11.05-17.20.23:366][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.05-17.20.23:367][ 93]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.20.23:369][ 93]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2025.11.05-17.20.23:370][ 93]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.11.05-17.20.23:370][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.20.23:370][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.20.23:370][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.20.23:370][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.20.23:370][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.20.23:370][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.20.23:370][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.20.23:370][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.20.23:370][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.20.23:370][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.20.23:370][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.20.23:372][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.20.23:390][ 93]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.20.23:390][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.20.23:391][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.20.23:391][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.20.23:391][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.11.05-17.20.23:391][ 93]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=13
+[2025.11.05-17.20.23:391][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.11.05-17.20.23:391][ 93]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27308
+[2025.11.05-17.20.23:391][ 93]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=13
+[2025.11.05-17.20.23:393][ 93]LogInit: FAudioDevice initialized with ID 13.
+[2025.11.05-17.20.23:394][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.11.05-17.20.23:394][ 93]LogAudio: Display: Audio Device (ID: 13) registered with world 'BlankTestSpace'.
+[2025.11.05-17.20.23:394][ 93]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.05-17.20.23:398][ 93]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.20.23:399][ 93]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.20.23
+[2025.11.05-17.20.23:399][ 93]LogWorld: Bringing up level for play took: 0.001356
+[2025.11.05-17.20.23:401][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.11.05-17.20.23:402][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.20.23:402][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.20.23:402][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.20.23:404][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.20.23:405][ 93]PIE: Server logged in
+[2025.11.05-17.20.23:407][ 93]PIE: Play in editor total start time 0.211 seconds.
+[2025.11.05-17.20.23:501][ 94]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.20.26:347][347]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.20.39:644][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.20.39:644][566]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.20.39:644][566]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.20.39:645][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.20.39:648][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.20.39:654][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.20.39:678][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.20.39:678][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.05-17.20.39:679][566]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.11.05-17.20.39:681][566]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.11.05-17.20.39:681][566]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=13
+[2025.11.05-17.20.39:685][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.11.05-17.20.39:743][567]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.11.05-17.20.41:823][733]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.20.41:867][733]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.20.41:867][733]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.20.41:870][733]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.20.41:870][733]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.20.41:870][733]LogFMOD: System sample rate = 0
+[2025.11.05-17.20.41:870][733]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.20.41:870][733]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.20.41:880][733]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.20.41:920][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.20.41:920][733]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.20.41:923][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003211s)
+[2025.11.05-17.20.41:923][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003256s)
+[2025.11.05-17.20.41:955][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.11.05-17.20.41:956][733]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.20.41:958][733]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2025.11.05-17.20.41:959][733]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.11.05-17.20.41:959][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.20.41:959][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.20.41:959][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.20.41:959][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.20.41:959][733]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.20.41:959][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.20.41:959][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.20.41:959][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.20.41:959][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.20.41:959][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.20.41:959][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.20.41:961][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.20.41:982][733]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.20.41:983][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.20.41:983][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.20.41:983][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.20.41:984][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.11.05-17.20.41:984][733]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=14
+[2025.11.05-17.20.41:984][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.11.05-17.20.41:984][733]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=31152
+[2025.11.05-17.20.41:984][733]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=14
+[2025.11.05-17.20.41:986][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.11.05-17.20.41:986][733]LogInit: FAudioDevice initialized with ID 14.
+[2025.11.05-17.20.41:986][733]LogAudio: Display: Audio Device (ID: 14) registered with world 'BlankTestSpace'.
+[2025.11.05-17.20.41:986][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.05-17.20.41:990][733]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.20.41:991][733]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.20.41
+[2025.11.05-17.20.41:991][733]LogWorld: Bringing up level for play took: 0.001431
+[2025.11.05-17.20.41:994][733]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.11.05-17.20.41:995][733]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.20.41:995][733]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.20.41:995][733]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.20.41:997][733]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.20.41:998][733]PIE: Server logged in
+[2025.11.05-17.20.42:000][733]PIE: Play in editor total start time 0.17 seconds.
+[2025.11.05-17.20.42:100][734]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.20.43:662][870]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.20.47:655][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.20.47:655][221]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.20.47:655][221]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.20.47:656][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.20.47:659][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.20.47:665][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.20.47:693][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.20.47:694][221]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.05-17.20.47:694][221]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.11.05-17.20.47:696][221]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.11.05-17.20.47:696][221]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=14
+[2025.11.05-17.20.47:700][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.05-17.20.47:758][222]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.11.05-17.21.01:353][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.05-17.21.02:095][118]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.21.02:129][118]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.21.02:129][118]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.21.02:132][118]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.21.02:132][118]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.21.02:132][118]LogFMOD: System sample rate = 0
+[2025.11.05-17.21.02:132][118]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.21.02:132][118]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.21.02:143][118]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.21.02:181][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.21.02:181][118]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.02:184][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003041s)
+[2025.11.05-17.21.02:184][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003085s)
+[2025.11.05-17.21.02:216][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.05-17.21.02:218][118]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.21.02:219][118]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2025.11.05-17.21.02:220][118]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.11.05-17.21.02:220][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.21.02:220][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.21.02:220][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.21.02:220][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.21.02:220][118]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.21.02:221][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.21.02:221][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.21.02:221][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.21.02:221][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.21.02:221][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.21.02:221][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.21.02:223][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.21.02:241][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=15
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33332
+[2025.11.05-17.21.02:241][118]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=15
+[2025.11.05-17.21.02:244][118]LogInit: FAudioDevice initialized with ID 15.
+[2025.11.05-17.21.02:244][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.11.05-17.21.02:244][118]LogAudio: Display: Audio Device (ID: 15) registered with world 'BlankTestSpace'.
+[2025.11.05-17.21.02:244][118]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.05-17.21.02:248][118]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.21.02:249][118]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.21.02
+[2025.11.05-17.21.02:249][118]LogWorld: Bringing up level for play took: 0.001391
+[2025.11.05-17.21.02:252][118]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.11.05-17.21.02:252][118]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.02:252][118]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.02:252][118]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.02:254][118]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.02:255][118]PIE: Server logged in
+[2025.11.05-17.21.02:257][118]PIE: Play in editor total start time 0.154 seconds.
+[2025.11.05-17.21.02:345][119]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.21.06:246][440]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.21.10:430][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.10:430][815]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.10:430][815]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.21.10:430][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.10:433][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.21.10:438][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.10:464][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.05-17.21.10:464][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.11.05-17.21.10:464][815]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.11.05-17.21.10:466][815]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.11.05-17.21.10:466][815]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=15
+[2025.11.05-17.21.10:468][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.10:471][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.05-17.21.10:527][816]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.11.05-17.21.11:786][898]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.21.11:816][898]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.21.11:816][898]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.21.11:819][898]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.21.11:819][898]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.21.11:819][898]LogFMOD: System sample rate = 0
+[2025.11.05-17.21.11:819][898]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.21.11:819][898]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.21.11:829][898]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.21.11:869][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.21.11:908][898]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.11:911][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003097s)
+[2025.11.05-17.21.11:911][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003143s)
+[2025.11.05-17.21.11:938][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-17.21.11:939][898]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.21.11:941][898]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2025.11.05-17.21.11:942][898]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.11.05-17.21.11:942][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.21.11:942][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.21.11:942][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.21.11:942][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.21.11:942][898]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.21.11:942][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.21.11:942][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.21.11:942][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.21.11:942][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.21.11:942][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.21.11:942][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.21.11:944][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.21.11:961][898]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.21.11:961][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.21.11:961][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.21.11:961][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.21.11:961][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.11.05-17.21.11:961][898]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=16
+[2025.11.05-17.21.11:961][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.11.05-17.21.11:961][898]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=30832
+[2025.11.05-17.21.11:964][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.11.05-17.21.11:964][898]LogInit: FAudioDevice initialized with ID 16.
+[2025.11.05-17.21.11:964][898]LogAudio: Display: Audio Device (ID: 16) registered with world 'BlankTestSpace'.
+[2025.11.05-17.21.11:964][898]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.05-17.21.11:968][898]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.21.11:969][898]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.21.11
+[2025.11.05-17.21.11:969][898]LogWorld: Bringing up level for play took: 0.001382
+[2025.11.05-17.21.11:972][898]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.11.05-17.21.11:973][898]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.11:973][898]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.11:973][898]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.11:974][898]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.11:975][898]PIE: Server logged in
+[2025.11.05-17.21.11:978][898]PIE: Play in editor total start time 0.184 seconds.
+[2025.11.05-17.21.12:071][899]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.21.14:409][105]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.21.20:780][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.20:780][685]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.20:780][685]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.21.20:781][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.20:784][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.21.20:790][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.20:816][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.20:816][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.11.05-17.21.20:816][685]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.11.05-17.21.20:818][685]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.11.05-17.21.20:818][685]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=16
+[2025.11.05-17.21.20:823][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.05-17.21.20:879][686]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.11.05-17.21.27:036][159]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.21.27:072][159]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.21.27:072][159]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.21.27:075][159]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.21.27:075][159]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.21.27:075][159]LogFMOD: System sample rate = 0
+[2025.11.05-17.21.27:075][159]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.21.27:075][159]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.21.27:085][159]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.21.27:125][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.21.27:161][159]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.27:164][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003110s)
+[2025.11.05-17.21.27:164][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003160s)
+[2025.11.05-17.21.27:191][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.05-17.21.27:193][159]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.21.27:195][159]LogPlayLevel: PIE: World Init took: (0.001764s)
+[2025.11.05-17.21.27:196][159]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.11.05-17.21.27:196][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.21.27:196][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.21.27:196][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.21.27:196][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.21.27:196][159]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.21.27:196][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.21.27:196][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.21.27:196][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.21.27:196][159]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.21.27:196][159]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.21.27:196][159]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.21.27:199][159]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.21.27:216][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=17
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32820
+[2025.11.05-17.21.27:216][159]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=17
+[2025.11.05-17.21.27:218][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.11.05-17.21.27:219][159]LogInit: FAudioDevice initialized with ID 17.
+[2025.11.05-17.21.27:219][159]LogAudio: Display: Audio Device (ID: 17) registered with world 'BlankTestSpace'.
+[2025.11.05-17.21.27:219][159]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.05-17.21.27:223][159]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.21.27:224][159]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.21.27
+[2025.11.05-17.21.27:224][159]LogWorld: Bringing up level for play took: 0.001368
+[2025.11.05-17.21.27:227][159]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.11.05-17.21.27:227][159]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.27:228][159]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.27:228][159]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.27:229][159]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.27:230][159]PIE: Server logged in
+[2025.11.05-17.21.27:232][159]PIE: Play in editor total start time 0.189 seconds.
+[2025.11.05-17.21.27:326][160]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.21.29:412][343]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.21.34:366][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.34:366][784]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.34:366][784]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.21.34:366][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.34:370][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.21.34:375][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.34:405][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.34:405][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.11.05-17.21.34:405][784]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.11.05-17.21.34:408][784]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.11.05-17.21.34:408][784]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=17
+[2025.11.05-17.21.34:412][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.05-17.21.34:468][785]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.11.05-17.21.53:447][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.05-17.21.55:438][153]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.21.55:487][153]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.21.55:487][153]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.21.55:490][153]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.21.55:490][153]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.21.55:490][153]LogFMOD: System sample rate = 0
+[2025.11.05-17.21.55:490][153]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.21.55:490][153]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.21.55:501][153]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.21.55:539][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.21.55:577][153]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.55:580][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003134s)
+[2025.11.05-17.21.55:580][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003185s)
+[2025.11.05-17.21.55:612][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-17.21.55:614][153]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.21.55:616][153]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2025.11.05-17.21.55:617][153]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.11.05-17.21.55:617][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.21.55:617][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.21.55:617][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.21.55:617][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.21.55:617][153]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.21.55:617][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.21.55:617][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.21.55:617][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.21.55:617][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.21.55:617][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.21.55:617][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.21.55:620][153]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.21.55:636][153]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.21.55:637][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.21.55:637][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.21.55:637][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.21.55:637][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.11.05-17.21.55:637][153]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=18
+[2025.11.05-17.21.55:637][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.11.05-17.21.55:637][153]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16248
+[2025.11.05-17.21.55:637][153]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=18
+[2025.11.05-17.21.55:639][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.11.05-17.21.55:639][153]LogInit: FAudioDevice initialized with ID 18.
+[2025.11.05-17.21.55:639][153]LogAudio: Display: Audio Device (ID: 18) registered with world 'BlankTestSpace'.
+[2025.11.05-17.21.55:639][153]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.05-17.21.55:644][153]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.21.55:645][153]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.21.55
+[2025.11.05-17.21.55:645][153]LogWorld: Bringing up level for play took: 0.001443
+[2025.11.05-17.21.55:648][153]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.11.05-17.21.55:649][153]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.55:649][153]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.55:649][153]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.55:651][153]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.55:652][153]PIE: Server logged in
+[2025.11.05-17.21.55:654][153]PIE: Play in editor total start time 0.208 seconds.
+[2025.11.05-17.21.55:748][154]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.21.58:539][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.58:539][388]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.58:539][388]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.21.58:540][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.58:544][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.21.58:549][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.21.58:573][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.05-17.21.58:573][388]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.11.05-17.21.58:573][388]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.11.05-17.21.58:575][388]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.11.05-17.21.58:575][388]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=18
+[2025.11.05-17.21.58:577][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.21.58:580][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.05-17.21.58:639][389]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.11.05-17.21.59:555][465]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.21.59:602][465]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.21.59:602][465]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.21.59:605][465]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.21.59:605][465]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.21.59:605][465]LogFMOD: System sample rate = 0
+[2025.11.05-17.21.59:605][465]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.21.59:605][465]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.21.59:615][465]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.21.59:657][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.21.59:657][465]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.21.59:660][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003091s)
+[2025.11.05-17.21.59:660][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003134s)
+[2025.11.05-17.21.59:691][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.05-17.21.59:692][465]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.21.59:694][465]LogPlayLevel: PIE: World Init took: (0.001782s)
+[2025.11.05-17.21.59:695][465]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.11.05-17.21.59:695][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.21.59:695][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.21.59:695][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.21.59:695][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.21.59:695][465]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.21.59:695][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.21.59:695][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.21.59:695][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.21.59:695][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.21.59:695][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.21.59:695][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.21.59:698][465]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.21.59:715][465]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.21.59:715][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.21.59:715][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.21.59:715][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.21.59:715][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.11.05-17.21.59:715][465]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=19
+[2025.11.05-17.21.59:715][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.11.05-17.21.59:715][465]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22896
+[2025.11.05-17.21.59:717][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.11.05-17.21.59:717][465]LogInit: FAudioDevice initialized with ID 19.
+[2025.11.05-17.21.59:717][465]LogAudio: Display: Audio Device (ID: 19) registered with world 'BlankTestSpace'.
+[2025.11.05-17.21.59:717][465]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.05-17.21.59:722][465]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.21.59:723][465]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.21.59
+[2025.11.05-17.21.59:724][465]LogWorld: Bringing up level for play took: 0.001376
+[2025.11.05-17.21.59:726][465]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.11.05-17.21.59:727][465]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.59:727][465]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.21.59:727][465]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.59:729][465]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.21.59:729][465]PIE: Server logged in
+[2025.11.05-17.21.59:732][465]PIE: Play in editor total start time 0.169 seconds.
+[2025.11.05-17.21.59:825][466]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.22.00:638][535]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.22.04:389][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.22.04:389][866]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.22.04:389][866]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.22.04:389][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.22.04:392][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.22.04:398][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.22.04:429][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.22.04:429][866]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.11.05-17.22.04:429][866]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.11.05-17.22.04:431][866]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.11.05-17.22.04:431][866]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=19
+[2025.11.05-17.22.04:436][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.05-17.22.04:493][867]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.11.05-17.22.09:099][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-17.22.10:500][175]LogSlate: Window 'Save Content' being destroyed
+[2025.11.05-17.22.10:512][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-17.22.10:553][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlankTestSpace" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.05-17.22.10:609][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.11.05-17.22.10:623][175]LogSavePackage: Moving output files for package: /Game/BlankTestSpace
+[2025.11.05-17.22.10:624][175]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BlankTestSpace6C754EB54403B9EEC86B4F8CF1B04D93.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap'
+[2025.11.05-17.22.10:639][175]LogFileHelpers: Saving map 'BlankTestSpace' took 0.086
+[2025.11.05-17.22.10:639][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Egg/Egg2] ([2] browsable assets)...
+[2025.11.05-17.22.10:651][175]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Egg/Egg2.Egg2]
+[2025.11.05-17.22.10:651][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Egg2]
+[2025.11.05-17.22.10:651][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Egg2" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset" SILENT=true
+[2025.11.05-17.22.10:678][175]LogSavePackage: Moving output files for package: /Game/Egg/Egg2
+[2025.11.05-17.22.10:679][175]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Egg2B9792D0E42C3A0244BF82BA44DAE65D7.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Egg2.uasset'
+[2025.11.05-17.22.10:681][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Egg/Nest] ([2] browsable assets)...
+[2025.11.05-17.22.10:687][175]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Egg/Nest.Nest]
+[2025.11.05-17.22.10:687][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Nest]
+[2025.11.05-17.22.10:687][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Nest" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset" SILENT=true
+[2025.11.05-17.22.10:698][175]LogSavePackage: Moving output files for package: /Game/Egg/Nest
+[2025.11.05-17.22.10:699][175]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Nest2D562FD7466C68017A2D91B3C093ECF1.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset'
+[2025.11.05-17.22.10:711][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.006 ms (total: 1.41 sec)
+[2025.11.05-17.22.10:768][175]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.05-17.22.10:768][175]LogContentValidation: Enabled validators:
+[2025.11.05-17.22.10:768][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-17.22.10:768][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-17.22.10:768][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-17.22.10:768][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-17.22.10:768][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-17.22.10:768][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-17.22.10:768][175]AssetCheck: /Game/BlankTestSpace Validating asset
+[2025.11.05-17.22.10:768][175]AssetCheck: /Game/Egg/Egg2 Validating asset
+[2025.11.05-17.22.10:768][175]AssetCheck: /Game/Egg/Nest Validating asset
+[2025.11.05-17.22.27:119][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1031.012939
+[2025.11.05-17.22.27:294][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.22.27:295][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1031.172119, Update Interval: 336.854767
+[2025.11.05-17.23.04:150][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.05-17.23.44:447][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.05-17.23.46:439][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.23.46:486][390]LogFMOD: Display: Loaded bank lookup
+[2025.11.05-17.23.46:486][390]LogFMOD: Error: Failed to load asset lookup
+[2025.11.05-17.23.46:489][390]LogFMOD: Error: 'lowLevelSystem->getDriverInfo(DriverIndex, nullptr, 0, nullptr, &SystemSampleRate, nullptr, nullptr)' returned 'An invalid parameter was passed to this function.'
+[2025.11.05-17.23.46:489][390]LogFMOD: Default sample rate = 48000
+[2025.11.05-17.23.46:489][390]LogFMOD: System sample rate = 0
+[2025.11.05-17.23.46:489][390]LogFMOD: CallbackHandler not set.
+[2025.11.05-17.23.46:489][390]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_systemi.cpp(2909) - No output sound devices found - switching output mode to FMOD_OUTPUTTYPE_NOSOUND
+
+[2025.11.05-17.23.46:500][390]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2025.11.05-17.23.46:540][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.23.46:575][390]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.23.46:578][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003128s)
+[2025.11.05-17.23.46:578][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlankTestSpace.BlankTestSpace to /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace (0.003176s)
+[2025.11.05-17.23.46:610][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.05-17.23.46:612][390]LogChaosDD: Creating Chaos Debug Draw Scene for world BlankTestSpace
+[2025.11.05-17.23.46:614][390]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2025.11.05-17.23.46:615][390]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.11.05-17.23.46:615][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.23.46:615][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.23.46:615][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.23.46:615][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.23.46:615][390]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.23.46:615][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.23.46:615][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.23.46:615][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.23.46:615][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.23.46:615][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.23.46:615][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.23.46:617][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.23.46:635][390]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.05-17.23.46:635][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.23.46:636][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.23.46:636][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.23.46:636][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.11.05-17.23.46:636][390]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=20
+[2025.11.05-17.23.46:636][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.11.05-17.23.46:636][390]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28880
+[2025.11.05-17.23.46:636][390]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=20
+[2025.11.05-17.23.46:638][390]LogInit: FAudioDevice initialized with ID 20.
+[2025.11.05-17.23.46:638][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.11.05-17.23.46:638][390]LogAudio: Display: Audio Device (ID: 20) registered with world 'BlankTestSpace'.
+[2025.11.05-17.23.46:638][390]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.05-17.23.46:643][390]LogLoad: Game class is 'GameMode_C'
+[2025.11.05-17.23.46:644][390]LogWorld: Bringing World /Game/UEDPIE_0_BlankTestSpace.BlankTestSpace up for play (max tick rate 0) at 2025.11.05-17.23.46
+[2025.11.05-17.23.46:644][390]LogWorld: Bringing up level for play took: 0.001393
+[2025.11.05-17.23.46:647][390]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.11.05-17.23.46:648][390]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.23.46:648][390]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.11.05-17.23.46:648][390]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.23.46:649][390]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.11.05-17.23.46:650][390]PIE: Server logged in
+[2025.11.05-17.23.46:653][390]PIE: Play in editor total start time 0.205 seconds.
+[2025.11.05-17.23.46:751][391]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.05-17.23.48:927][562]LogBlueprintUserMessages: [BP_EditCamPlayer_C_0] Edit mode Finished
+[2025.11.05-17.23.51:243][781]LogBlueprintUserMessages: [Nest_C_1] Hello
+[2025.11.05-17.23.53:147][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.23.53:147][939]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BlankTestSpace
+[2025.11.05-17.23.53:147][939]LogWorld: UWorld::CleanupWorld for BlankTestSpace, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.23.53:147][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.23.53:151][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.23.53:157][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.23.53:186][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.05-17.23.53:186][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.05-17.23.53:186][939]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.11.05-17.23.53:189][939]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.11.05-17.23.53:189][939]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=20
+[2025.11.05-17.23.53:191][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.23.53:193][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.05-17.23.53:265][940]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.11.05-17.23.57:925][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.05-17.23.57:930][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-17.23.57:969][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlankTestSpace" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.05-17.23.58:026][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.05-17.23.58:041][306]LogSavePackage: Moving output files for package: /Game/BlankTestSpace
+[2025.11.05-17.23.58:042][306]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BlankTestSpace7ED8E38E42168237011CEEB434C2448B.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BlankTestSpace.umap'
+[2025.11.05-17.23.58:058][306]LogFileHelpers: Saving map 'BlankTestSpace' took 0.088
+[2025.11.05-17.23.58:058][306]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Egg/Nest] ([2] browsable assets)...
+[2025.11.05-17.23.58:099][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Egg/Nest.Nest]
+[2025.11.05-17.23.58:099][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/Egg/Nest]
+[2025.11.05-17.23.58:099][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Egg/Nest" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset" SILENT=true
+[2025.11.05-17.23.58:110][306]LogSavePackage: Moving output files for package: /Game/Egg/Nest
+[2025.11.05-17.23.58:111][306]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Nest24C6EB97469CFED224BFE29E1658D6C2.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Egg/Nest.uasset'
+[2025.11.05-17.23.58:124][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.708 ms (total: 1.61 sec)
+[2025.11.05-17.23.58:185][306]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.05-17.23.58:185][306]LogContentValidation: Enabled validators:
+[2025.11.05-17.23.58:185][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-17.23.58:185][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-17.23.58:185][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-17.23.58:185][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-17.23.58:185][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-17.23.58:185][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-17.23.58:185][306]AssetCheck: /Game/BlankTestSpace Validating asset
+[2025.11.05-17.23.58:185][306]AssetCheck: /Game/Egg/Nest Validating asset
