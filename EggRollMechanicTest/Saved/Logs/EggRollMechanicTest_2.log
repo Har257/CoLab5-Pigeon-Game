@@ -5629,3 +5629,131 @@ Continue: Skip saving this asset only.
 [2025.11.14-11.24.42:728][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3120.166992
 [2025.11.14-11.24.43:729][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.14-11.24.43:729][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3120.833252, Update Interval: 336.043579
+[2025.11.14-11.27.33:251][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.14-11.27.33:256][353]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/FirstLevel' took 0.058
+[2025.11.14-11.27.33:257][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_GameplayManager] ([2] browsable assets)...
+[2025.11.14-11.27.33:257][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_GameplayManager]
+[2025.11.14-11.27.33:319][353]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_GameplayManager_Auto1
+[2025.11.14-11.27.33:319][353]LogSavePackage: Moving '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager_Auto1810D63534B268690BAC49FBD80ABE9F3.tmp' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Autosaves/Game/BP/BP_GameplayManager_Auto1.uasset'
+[2025.11.14-11.27.33:321][353]LogFileHelpers: Auto-saving content packages took 0.066
+[2025.11.14-11.28.55:380][738]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.14-11.28.55:380][738]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.14-11.28.58:396][874]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.14-11.30.54:173][697]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3491.606201
+[2025.11.14-11.30.55:174][700]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.14-11.30.55:174][700]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3492.273193, Update Interval: 335.860474
+[2025.11.14-11.32.02:621][235]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.14-11.32.02:638][235]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/IzzyEgg/EGG1.EGG1
+[2025.11.14-11.32.02:689][235]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.14-11.32.02:768][235]LogPSOHitching: Encountered 1650 PSO creation hitches so far (864 graphics, 786 compute). 0 of them were precached.
+[2025.11.14-11.32.05:217][236]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.14-11.32.05:217][236]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.14-11.32.05:217][236]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.14-11.32.05:217][236]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.14-11.32.05:316][236]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.14-11.32.05:586][236]LogPSOHitching: Encountered 1700 PSO creation hitches so far (883 graphics, 817 compute). 0 of them were precached.
+[2025.11.14-11.34.30:137][197]LogDerivedDataCache: C:/Users/23670444/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.14-11.34.51:619][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.11.14-11.34.53:186][311]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.14-11.34.53:353][311]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.14-11.34.53:353][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.14-11.34.53:392][311]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/IzzyEgg/EGG1.EGG1
+	Asset Type: StaticMesh
+[2025.11.14-11.34.53:965][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.11.14-11.34.54:020][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.11.14-11.34.54:068][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.14-11.34.54:125][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.14-11.34.54:152][311]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.14-11.35.12:640][616]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.14-11.35.12:726][616]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/23670444/OneDrive - MMU/Downloads/EGG1.fbx]
+[2025.11.14-11.35.39:412][616]LogSlate: Window 'Import Content' being destroyed
+[2025.11.14-11.35.39:430][616]LogAnalytics: Warning: Duplicate Attributes Found For Event Interchange.Usage.Import.Pipeline Property.Animations.MaterialCurveSuffixes==Property.Animations.MaterialCurveSuffixes
+[2025.11.14-11.35.39:436][616]LogInterchangeEngine: [Pending] Importing
+[2025.11.14-11.35.39:736][618]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.14-11.35.39:870][620]LogStaticMesh: Display: Building static mesh EGG1 (Required Memory Estimate: 0.352304 MB)...
+[2025.11.14-11.35.39:872][620]LogStaticMesh: Adjacency [0.00s], tris: 224, UVs 1
+[2025.11.14-11.35.39:873][620]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.14-11.35.39:873][620]LogStaticMesh: Leaves [0.00s]
+[2025.11.14-11.35.39:880][620]LogStaticMesh: Reduce [0.01s]
+[2025.11.14-11.35.39:881][620]LogStaticMesh: Fallback [0.00s], num tris: 224
+[2025.11.14-11.35.39:882][620]LogStaticMesh: Fallback [0.00s], num tris: 224
+[2025.11.14-11.35.39:883][620]LogStaticMesh: ConstrainClusters:
+[2025.11.14-11.35.39:883][620]LogStaticMesh:   Input: 3 Clusters, 350 Triangles and 282 Vertices
+[2025.11.14-11.35.39:883][620]LogStaticMesh:   Output without splits: 3 Clusters, 350 Triangles and 286 Vertices
+[2025.11.14-11.35.39:883][620]LogStaticMesh:   Output with splits: 3 Clusters, 350 Triangles and 286 Vertices
+[2025.11.14-11.35.39:883][620]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.14-11.35.39:883][620]LogStaticMesh: WritePages:
+[2025.11.14-11.35.39:883][620]LogStaticMesh:   Root: GPU size: 3952 bytes. 1 Pages. 3952.000 bytes per page (12.061% utilization).
+[2025.11.14-11.35.39:883][620]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.14-11.35.39:883][620]LogStaticMesh:   Page data disk size: 3616 bytes. Fixup data size: 40 bytes.
+[2025.11.14-11.35.39:883][620]LogStaticMesh:   Total GPU size: 3952 bytes, Total disk size: 3656 bytes.
+[2025.11.14-11.35.39:883][620]LogStaticMesh: Encode [0.00s]
+[2025.11.14-11.35.39:883][620]LogStaticMesh: NaniteBuild [0.01s]
+[2025.11.14-11.35.39:908][620]LogStaticMesh: Built static mesh [0.04s] /Game/IzzyEgg/EGG1.EGG1
+[2025.11.14-11.35.40:010][621]LogInterchangeEngine: Display: Interchange import completed [C:/Users/23670444/OneDrive - MMU/Downloads/EGG1.fbx]
+[2025.11.14-11.35.40:016][621]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.14-11.35.40:016][621]LogInterchangeEngine: [Success] Import Done
+[2025.11.14-11.35.40:100][622]LogPSOHitching: Encountered 1750 PSO creation hitches so far (919 graphics, 831 compute). 0 of them were precached.
+[2025.11.14-11.35.47:438][965]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IzzyEgg/EGG1.EGG1
+[2025.11.14-11.35.47:438][965]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IzzyEgg/EGG1.EGG1
+[2025.11.14-11.35.47:439][965]LogActorFactory: Actor Factory spawned StaticMesh /Game/IzzyEgg/EGG1.EGG1 as actor: StaticMeshActor /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.StaticMeshActor_5
+[2025.11.14-11.35.49:841][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.11.14-11.35.49:844][ 88]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2025.11.14-11.35.49:854][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IzzyEgg/EGG1.EGG1
+[2025.11.14-11.35.49:854][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IzzyEgg/EGG1.EGG1
+[2025.11.14-11.35.49:857][ 88]LogActorFactory: Actor Factory spawned StaticMesh /Game/IzzyEgg/EGG1.EGG1 as actor: StaticMeshActor /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.StaticMeshActor_16
+[2025.11.14-11.35.50:727][127]Cmd: DELETE
+[2025.11.14-11.35.50:727][127]Cmd: ACTOR DELETE
+[2025.11.14-11.35.50:733][127]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.14-11.35.50:783][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.11.14-11.35.50:786][127]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2025.11.14-11.35.51:898][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.14-11.35.51:907][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.14-11.35.52:062][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.11.14-11.35.52:100][203]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2025.11.14-11.35.52:104][203]LogSavePackage: Moving '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/FirstLevel4F72225B4EE9AE8431007A8141551758.tmp' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/Levels/FirstLevel.umap'
+[2025.11.14-11.35.52:132][203]LogFileHelpers: Saving map 'FirstLevel' took 0.166
+[2025.11.14-11.35.52:133][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_GameplayManager] ([2] browsable assets)...
+[2025.11.14-11.35.52:133][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_GameplayManager]
+[2025.11.14-11.35.52:194][203]LogSavePackage: Moving output files for package: /Game/BP/BP_GameplayManager
+[2025.11.14-11.35.52:195][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.52:697][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.53:199][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.53:700][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.54:200][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.54:701][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.55:202][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.55:703][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.56:204][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.56:706][203]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp' (Error Code 32), retrying in .5s...
+[2025.11.14-11.35.57:210][203]LogFileManager: Error: Error moving file '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManager3CD2020B436EC56E79830F9C062E1C54.tmp'.
+[2025.11.14-11.35.57:210][203]LogSavePackage: Warning: Failed to move '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset' to temp directory
+[2025.11.14-11.35.57:210][203]LogSavePackage: Error: Error saving '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset'
+[2025.11.14-11.35.57:210][203]Warning: Error saving '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset'
+[2025.11.14-11.36.03:467][203]LogSlate: Window 'Message' being destroyed
+[2025.11.14-11.36.03:480][203]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/BP/BP_GameplayManager' (BP_GameplayManager.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.11.14-11.36.03:481][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IzzyEgg/EGG1] ([1] browsable assets)...
+[2025.11.14-11.36.03:656][203]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/IzzyEgg/EGG1.EGG1]
+[2025.11.14-11.36.03:656][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/IzzyEgg/EGG1]
+[2025.11.14-11.36.03:656][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IzzyEgg/EGG1" FILE="../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/IzzyEgg/EGG1.uasset" SILENT=true
+[2025.11.14-11.36.03:672][203]LogSavePackage: Moving output files for package: /Game/IzzyEgg/EGG1
+[2025.11.14-11.36.03:672][203]LogSavePackage: Moving '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/EGG1E4B524BD4ACF228A7CC058A442E58F44.tmp' to '../../../../../../Users/23670444/OneDrive - MMU/Documents/GitHub/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/IzzyEgg/EGG1.uasset'
+[2025.11.14-11.36.04:903][203]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2025.11.14-11.36.04:945][203]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/BP/BP_GameplayManager
+[2025.11.14-11.36.04:945][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.0 sec (total: 1:05 min)
+[2025.11.14-11.36.05:027][203]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.14-11.36.05:027][203]LogContentValidation: Enabled validators:
+[2025.11.14-11.36.05:027][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.14-11.36.05:027][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.14-11.36.05:027][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.14-11.36.05:027][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.14-11.36.05:027][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.14-11.36.05:027][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.14-11.36.05:027][203]AssetCheck: /Game/Levels/FirstLevel Validating asset
+[2025.11.14-11.36.05:027][203]AssetCheck: /Game/IzzyEgg/EGG1 Validating asset
