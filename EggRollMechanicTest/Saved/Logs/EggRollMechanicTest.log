@@ -2241,3 +2241,6 @@ Sampler Limit: 32
 [2025.11.28-10.59.15:233][625]AssetCheck: /Game/EdwardModels/SM_bush Validating asset
 [2025.11.28-10.59.15:233][625]AssetCheck: /Game/EdwardModels/scale_reference Validating asset
 [2025.11.28-10.59.15:264][625]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.28-11.00.33:871][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1007.123596
+[2025.11.28-11.00.34:870][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.28-11.00.34:870][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1007.791504, Update Interval: 336.252319
