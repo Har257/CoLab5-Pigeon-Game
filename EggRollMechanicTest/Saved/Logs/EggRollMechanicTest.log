@@ -2652,3 +2652,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.28-12.48.54:447][543]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/UI/WBP_ScreenOverlay_Auto6
 [2025.11.28-12.48.54:447][543]LogSavePackage: Moving '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/WBP_ScreenOverlay_Auto6D8FD9F21456827E41C37EA8CE9441B72.tmp' to '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Autosaves/Game/BP/UI/WBP_ScreenOverlay_Auto6.uasset'
 [2025.11.28-12.48.54:449][543]LogFileHelpers: Auto-saving content packages took 0.095
+[2025.11.28-12.50.03:398][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.11.28-12.50.32:883][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.11.28-12.50.33:738][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.28-12.50.33:807][ 82]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/UI/WBP_ScreenOverlay] ([2] browsable assets)...
+[2025.11.28-12.50.33:810][ 82]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/UI/WBP_ScreenOverlay.WBP_ScreenOverlay]
+[2025.11.28-12.50.33:810][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/UI/WBP_ScreenOverlay]
+[2025.11.28-12.50.33:810][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/WBP_ScreenOverlay" FILE="../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/UI/WBP_ScreenOverlay.uasset" SILENT=true
+[2025.11.28-12.50.33:833][ 82]LogSavePackage: Moving output files for package: /Game/BP/UI/WBP_ScreenOverlay
+[2025.11.28-12.50.33:834][ 82]LogSavePackage: Moving '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/WBP_ScreenOverlay4A7E7FB541623CBB700075AB29A5DEA5.tmp' to '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/UI/WBP_ScreenOverlay.uasset'
+[2025.11.28-12.50.33:851][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.008 ms (total: 4.30 sec)
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: Enabled validators:
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.28-12.50.33:925][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.28-12.50.33:926][ 82]AssetCheck: /Game/BP/UI/WBP_ScreenOverlay Validating asset
+[2025.11.28-12.50.34:446][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.11.28-12.50.34:454][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.28-12.50.34:529][115]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_GameplayManager] ([2] browsable assets)...
+[2025.11.28-12.50.34:529][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_GameplayManager]
+[2025.11.28-12.50.34:529][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_GameplayManager" FILE="../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset" SILENT=true
+[2025.11.28-12.50.34:599][115]LogSavePackage: Moving output files for package: /Game/BP/BP_GameplayManager
+[2025.11.28-12.50.34:600][115]LogSavePackage: Moving '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/BP_GameplayManagerB9E4AC9049C3200704DC619E3BB73A8F.tmp' to '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/BP_GameplayManager.uasset'
+[2025.11.28-12.50.34:617][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.563 ms (total: 4.46 sec)
+[2025.11.28-12.50.34:677][115]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.28-12.50.34:677][115]LogContentValidation: Enabled validators:
+[2025.11.28-12.50.34:677][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.28-12.50.34:677][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.28-12.50.34:677][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.28-12.50.34:677][115]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.28-12.50.34:677][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.28-12.50.34:677][115]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.28-12.50.34:677][115]AssetCheck: /Game/BP/BP_GameplayManager Validating asset
+[2025.11.28-12.50.44:111][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.11.28-12.52.11:196][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.28-12.52.11:259][ 72]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/UI/WBP_ScreenOverlay] ([2] browsable assets)...
+[2025.11.28-12.52.11:264][ 72]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/UI/WBP_ScreenOverlay.WBP_ScreenOverlay]
+[2025.11.28-12.52.11:264][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/UI/WBP_ScreenOverlay]
+[2025.11.28-12.52.11:264][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/UI/WBP_ScreenOverlay" FILE="../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/UI/WBP_ScreenOverlay.uasset" SILENT=true
+[2025.11.28-12.52.11:282][ 72]LogSavePackage: Moving output files for package: /Game/BP/UI/WBP_ScreenOverlay
+[2025.11.28-12.52.11:284][ 72]LogSavePackage: Moving '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/WBP_ScreenOverlay9DADC748467271D85CD669B079D9897D.tmp' to '../../../../../../Users/22504757/Desktop/CoLab5-Pigeon-Game/EggRollMechanicTest/Content/BP/UI/WBP_ScreenOverlay.uasset'
+[2025.11.28-12.52.11:300][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.356 ms (total: 4.57 sec)
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: Enabled validators:
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.28-12.52.11:380][ 72]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.28-12.52.11:380][ 72]AssetCheck: /Game/BP/UI/WBP_ScreenOverlay Validating asset
+[2025.11.28-12.52.11:727][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
