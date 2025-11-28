@@ -2144,3 +2144,103 @@ Sampler Limit: 32
 [2025.11.28-10.54.51:927][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 665.180908
 [2025.11.28-10.54.52:931][325]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.28-10.54.52:932][325]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 665.851501, Update Interval: 333.690613
+[2025.11.28-10.59.13:388][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.28-10.59.14:586][625]LogSlate: Window 'Save Content' being destroyed
+[2025.11.28-10.59.14:629][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.28-10.59.14:698][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/Plant_Base_color] ([1] browsable assets)...
+[2025.11.28-10.59.14:701][625]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/EdwardModels/Plant_Base_color.Plant_Base_color]
+[2025.11.28-10.59.14:701][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/Plant_Base_color]
+[2025.11.28-10.59.14:701][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/Plant_Base_color" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/Plant_Base_color.uasset" SILENT=true
+[2025.11.28-10.59.14:730][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/Plant_Base_color
+[2025.11.28-10.59.14:730][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Plant_Base_colorCB85AC014510DB2C340168A95EE274ED.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/Plant_Base_color.uasset'
+[2025.11.28-10.59.14:732][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/Plant_alpha] ([1] browsable assets)...
+[2025.11.28-10.59.14:735][625]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/EdwardModels/Plant_alpha.Plant_alpha]
+[2025.11.28-10.59.14:735][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/Plant_alpha]
+[2025.11.28-10.59.14:735][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/Plant_alpha" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/Plant_alpha.uasset" SILENT=true
+[2025.11.28-10.59.14:757][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/Plant_alpha
+[2025.11.28-10.59.14:757][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/Plant_alpha1A00AC7B4FCE8B2229CE5B9345EC2767.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/Plant_alpha.uasset'
+[2025.11.28-10.59.14:760][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_1m_Gutter_Cornerpin] ([1] browsable assets)...
+[2025.11.28-10.59.14:817][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_1m_Gutter_Cornerpin.SM_1m_Gutter_Cornerpin]
+[2025.11.28-10.59.14:817][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_1m_Gutter_Cornerpin]
+[2025.11.28-10.59.14:817][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_1m_Gutter_Cornerpin" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_Gutter_Cornerpin.uasset" SILENT=true
+[2025.11.28-10.59.14:831][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_1m_Gutter_Cornerpin
+[2025.11.28-10.59.14:831][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_1m_Gutter_Cornerpin5876914549206541CCF0B5B27AA8042E.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_Gutter_Cornerpin.uasset'
+[2025.11.28-10.59.14:833][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_1m_Gutterpin] ([1] browsable assets)...
+[2025.11.28-10.59.14:846][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_1m_Gutterpin.SM_1m_Gutterpin]
+[2025.11.28-10.59.14:846][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_1m_Gutterpin]
+[2025.11.28-10.59.14:846][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_1m_Gutterpin" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_Gutterpin.uasset" SILENT=true
+[2025.11.28-10.59.14:860][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_1m_Gutterpin
+[2025.11.28-10.59.14:860][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_1m_GutterpinA45BD3834F1D941A5F40E3924DF2472F.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_Gutterpin.uasset'
+[2025.11.28-10.59.14:862][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_1m_Gutterramp] ([1] browsable assets)...
+[2025.11.28-10.59.14:874][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_1m_Gutterramp.SM_1m_Gutterramp]
+[2025.11.28-10.59.14:874][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_1m_Gutterramp]
+[2025.11.28-10.59.14:874][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_1m_Gutterramp" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_Gutterramp.uasset" SILENT=true
+[2025.11.28-10.59.14:888][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_1m_Gutterramp
+[2025.11.28-10.59.14:889][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_1m_Gutterramp0AD33CF1400DE8381AB1E4836B126DC9.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_Gutterramp.uasset'
+[2025.11.28-10.59.14:891][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_1m_pipe_Angledpin] ([1] browsable assets)...
+[2025.11.28-10.59.14:903][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_1m_pipe_Angledpin.SM_1m_pipe_Angledpin]
+[2025.11.28-10.59.14:903][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_1m_pipe_Angledpin]
+[2025.11.28-10.59.14:904][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_1m_pipe_Angledpin" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_pipe_Angledpin.uasset" SILENT=true
+[2025.11.28-10.59.14:919][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_1m_pipe_Angledpin
+[2025.11.28-10.59.14:919][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_1m_pipe_AngledpinEC33FA1D4F8DF8D6BBA5A39392BBA2D6.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_1m_pipe_Angledpin.uasset'
+[2025.11.28-10.59.14:921][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_2x1_tree] ([1] browsable assets)...
+[2025.11.28-10.59.14:935][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_2x1_tree.SM_2x1_tree]
+[2025.11.28-10.59.14:935][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_2x1_tree]
+[2025.11.28-10.59.14:935][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_2x1_tree" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_2x1_tree.uasset" SILENT=true
+[2025.11.28-10.59.14:949][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_2x1_tree
+[2025.11.28-10.59.14:949][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_2x1_treeDEF60C19492F8A46D48AF6BCEBED30B4.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_2x1_tree.uasset'
+[2025.11.28-10.59.14:951][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_Edge_Detail] ([1] browsable assets)...
+[2025.11.28-10.59.14:962][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_Edge_Detail.SM_Edge_Detail]
+[2025.11.28-10.59.14:962][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_Edge_Detail]
+[2025.11.28-10.59.14:962][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_Edge_Detail" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_Edge_Detail.uasset" SILENT=true
+[2025.11.28-10.59.14:976][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_Edge_Detail
+[2025.11.28-10.59.14:977][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_Edge_Detail5E54B1CE46FC5BC5665B168E4AEE2118.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_Edge_Detail.uasset'
+[2025.11.28-10.59.14:980][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_Grass_plane] ([1] browsable assets)...
+[2025.11.28-10.59.14:991][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_Grass_plane.SM_Grass_plane]
+[2025.11.28-10.59.14:991][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_Grass_plane]
+[2025.11.28-10.59.14:991][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_Grass_plane" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_Grass_plane.uasset" SILENT=true
+[2025.11.28-10.59.15:004][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_Grass_plane
+[2025.11.28-10.59.15:004][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_Grass_plane9E0D41B34ADA938903E7B0AB37D4F386.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_Grass_plane.uasset'
+[2025.11.28-10.59.15:006][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_birdnest] ([1] browsable assets)...
+[2025.11.28-10.59.15:018][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_birdnest.SM_birdnest]
+[2025.11.28-10.59.15:018][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_birdnest]
+[2025.11.28-10.59.15:018][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_birdnest" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_birdnest.uasset" SILENT=true
+[2025.11.28-10.59.15:033][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_birdnest
+[2025.11.28-10.59.15:033][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_birdnest9213D2D74A2E4F648BD7D4BD77811CAC.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_birdnest.uasset'
+[2025.11.28-10.59.15:036][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/SM_bush] ([1] browsable assets)...
+[2025.11.28-10.59.15:047][625]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/EdwardModels/SM_bush.SM_bush]
+[2025.11.28-10.59.15:048][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/SM_bush]
+[2025.11.28-10.59.15:048][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/SM_bush" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_bush.uasset" SILENT=true
+[2025.11.28-10.59.15:061][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/SM_bush
+[2025.11.28-10.59.15:061][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SM_bush70D1F9A042F4A4CD0F86279CC06C10B6.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/SM_bush.uasset'
+[2025.11.28-10.59.15:063][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EdwardModels/scale_reference] ([1] browsable assets)...
+[2025.11.28-10.59.15:065][625]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/EdwardModels/scale_reference.scale_reference]
+[2025.11.28-10.59.15:065][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/EdwardModels/scale_reference]
+[2025.11.28-10.59.15:065][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardModels/scale_reference" FILE="../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/scale_reference.uasset" SILENT=true
+[2025.11.28-10.59.15:116][625]LogSavePackage: Moving output files for package: /Game/EdwardModels/scale_reference
+[2025.11.28-10.59.15:116][625]LogSavePackage: Moving '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/scale_reference49BCA489404AC7F600201387FE40B09E.tmp' to '../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Content/EdwardModels/scale_reference.uasset'
+[2025.11.28-10.59.15:132][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 502.613 ms (total: 971.239 ms)
+[2025.11.28-10.59.15:231][625]LogContentValidation: Display: Starting to validate 12 assets
+[2025.11.28-10.59.15:231][625]LogContentValidation: Enabled validators:
+[2025.11.28-10.59.15:231][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.28-10.59.15:231][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.28-10.59.15:231][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.28-10.59.15:231][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.28-10.59.15:231][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.28-10.59.15:231][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.28-10.59.15:231][625]AssetCheck: /Game/EdwardModels/Plant_Base_color Validating asset
+[2025.11.28-10.59.15:231][625]AssetCheck: /Game/EdwardModels/Plant_alpha Validating asset
+[2025.11.28-10.59.15:231][625]AssetCheck: /Game/EdwardModels/SM_1m_Gutter_Cornerpin Validating asset
+[2025.11.28-10.59.15:232][625]AssetCheck: /Game/EdwardModels/SM_1m_Gutterpin Validating asset
+[2025.11.28-10.59.15:232][625]AssetCheck: /Game/EdwardModels/SM_1m_Gutterramp Validating asset
+[2025.11.28-10.59.15:232][625]AssetCheck: /Game/EdwardModels/SM_1m_pipe_Angledpin Validating asset
+[2025.11.28-10.59.15:232][625]AssetCheck: /Game/EdwardModels/SM_2x1_tree Validating asset
+[2025.11.28-10.59.15:232][625]AssetCheck: /Game/EdwardModels/SM_Edge_Detail Validating asset
+[2025.11.28-10.59.15:232][625]AssetCheck: /Game/EdwardModels/SM_Grass_plane Validating asset
+[2025.11.28-10.59.15:232][625]AssetCheck: /Game/EdwardModels/SM_birdnest Validating asset
+[2025.11.28-10.59.15:233][625]AssetCheck: /Game/EdwardModels/SM_bush Validating asset
+[2025.11.28-10.59.15:233][625]AssetCheck: /Game/EdwardModels/scale_reference Validating asset
+[2025.11.28-10.59.15:264][625]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../CoLab5-Pigeon-Game/EggRollMechanicTest/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.28-11.00.33:871][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1007.123596
+[2025.11.28-11.00.34:870][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.28-11.00.34:870][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1007.791504, Update Interval: 336.252319
