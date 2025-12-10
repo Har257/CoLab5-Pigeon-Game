@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.bin
+/EggRollMechanicTest/Saved/Config/CrashReportClient
+/EggRollMechanicTest/Saved/Cooked
+/EggRollMechanicTest/Saved/Shaders
+/EggRollMechanicTest/Saved/StagedBuilds
